@@ -6,7 +6,7 @@
 
 [![Apify](https://img.shields.io/badge/Apify-32_data_actors-97D700?logo=apify&logoColor=white)](https://apify.com/0xgollum)
 [![n8n](https://img.shields.io/badge/n8n-5_published_templates-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/creators/xgollum)
-[![Google Play](https://img.shields.io/badge/Google_Play-2_apps-3DDC84?logo=googleplay&logoColor=white)](https://github.com/0xGollum/Android)
+[![Mobile apps](https://img.shields.io/badge/Mobile_apps-3-6C5CE7?logo=flutter&logoColor=white)](#-mobile-apps)
 [![YouTube](https://img.shields.io/badge/YouTube-The_Last_Signal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lastsignal-radio)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/crabe666)
 
@@ -42,14 +42,15 @@ Five published, tested end to end, ready to import. Each one runs on free tiers 
 
 ---
 
-## 📱 Android apps
+## 📱 Mobile apps
 
-| | |
-|---|---|
-| <img src="https://raw.githubusercontent.com/0xGollum/Android/main/assets/xlight-icon.jpg" width="56"> | **X Light** — a flashlight that turns on in one tap and looks like you want it to: 500+ themes, widget, background torch, 11 languages. Free, no account.<br>[**Get it on Google Play →**](https://play.google.com/store/apps/details?id=com.oxgollum.xlight) |
-| <img src="https://raw.githubusercontent.com/0xGollum/Android/main/assets/ike-icon.png" width="56"> | **Ike** — the Eisenhower matrix in your pocket: sort every task as urgent or important, tick, archive, back up, 11 languages. Made with and for brains that need things clear.<br>[**Get it on Google Play →**](https://play.google.com/store/apps/details?id=com.oxgollum.ike) |
+| | App | Android | iPhone |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/icon-xlight.png" width="64"> | **X Light**<br>The one-tap flashlight: 500+ themes, widget, background torch, 11 languages. Free, no account. | [**Google Play**](https://play.google.com/store/apps/details?id=com.oxgollum.xlight) | [TestFlight beta](https://testflight.apple.com/join/Mj9y8zvb) |
+| <img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/icon-ike.png" width="64"> | **Ike**<br>The Eisenhower matrix in your pocket: sort tasks by urgency and importance, tick, archive, back up, 11 languages. | [**Google Play**](https://play.google.com/store/apps/details?id=com.oxgollum.ike) | [TestFlight beta](https://testflight.apple.com/join/NYXZnDFW) |
+| <img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/icon-bottlebuddies.png" width="64"> | **Bottle Buddies**<br>A cute water-sort puzzle where the bottles have faces. | Coming soon | [TestFlight beta](https://testflight.apple.com/join/vDM61tsM) |
 
-[Screenshots and details →](https://github.com/0xGollum/Android)
+*iPhone versions are in public beta through TestFlight (10 spots per app): your feedback shapes the final release.* [Android screenshots and details →](https://github.com/0xGollum/Android)
 
 ---
 
@@ -58,16 +59,6 @@ Five published, tested end to end, ready to import. Each one runs on free tiers 
 A live radio channel that never sleeps: original music made with AI tools, rainy cyberpunk visuals, distant thunder. Turn the radio on, the signal is still here.
 
 [**▶ Tune in on YouTube →**](https://www.youtube.com/@lastsignal-radio)
-
----
-
-## 🧪 Beta testers wanted — iPhone
-
-Try the iPhone versions before everyone else with TestFlight (10 spots per app, free, your feedback shapes the final version):
-
-- [**X Light**](https://testflight.apple.com/join/Mj9y8zvb) — the one-tap flashlight with 500+ themes
-- [**Ike**](https://testflight.apple.com/join/NYXZnDFW) — the Eisenhower matrix for your tasks
-- [**Bottle Buddies**](https://testflight.apple.com/join/vDM61tsM) — a cute water-sort puzzle with bottles that have faces
 
 ---
 
