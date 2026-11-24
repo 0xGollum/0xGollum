@@ -1,13 +1,14 @@
 <div align="center">
 
-# 0xGollum
+<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png" alt="0xGollum — tools that watch, alert and automate" width="100%">
 
-**I build tools that watch, alert and automate — so you don't have to.**
+**Signal feeds, workflow templates, Android apps and a 24/7 radio — built to run while you sleep.**
 
 [![Apify](https://img.shields.io/badge/Apify-32_data_actors-97D700?logo=apify&logoColor=white)](https://apify.com/0xgollum)
 [![n8n](https://img.shields.io/badge/n8n-5_published_templates-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/creators/xgollum)
 [![Google Play](https://img.shields.io/badge/Google_Play-2_apps-3DDC84?logo=googleplay&logoColor=white)](https://github.com/0xGollum/Android)
 [![YouTube](https://img.shields.io/badge/YouTube-The_Last_Signal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lastsignal-radio)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/crabe666)
 
 </div>
 
@@ -72,7 +73,12 @@ Try the iPhone versions before everyone else with TestFlight (10 spots per app, 
 
 ## 🖼️ Photo restoration
 
-Old, damaged family photos brought back to life — repairs and optional colorization. Available as a gig on Fiverr.
+Old, damaged family photos brought back to life: scratches, stains and noise repaired, then (optionally) colorized with natural tones. Original → restored → colorized:
+
+<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/restoration-1.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/restoration-2.jpg" width="100%">
+
+**[▶ Order a restoration on Fiverr →](https://www.fiverr.com/crabe666)**
 
 ---
 
