@@ -1,18 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png?v=3" alt="0xGollum — tools that watch, alert and automate" width="100%">
+<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png?v=5" alt="0xGollum — tools that watch, alert and automate" width="100%">
 
-**I build data signals and workflow automations that watch the web for you — and tell you when something is worth acting on.**
+**Need data or an app? I build it for you.**
 
+[![Hire me on Fiverr](https://img.shields.io/badge/Fiverr-Hire_me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/crabe666)
 [![Apify](https://img.shields.io/badge/Apify-32_data_actors-97D700?logo=apify&logoColor=white)](https://apify.com/0xgollum)
-[![n8n](https://img.shields.io/badge/n8n-5_published_templates-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/creators/xgollum)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/crabe666)
+[![Google Play](https://img.shields.io/badge/Google_Play-2_apps-3DDC84?logo=googleplay&logoColor=white)](#-mobile-apps)
 
 </div>
 
 ---
 
-## 📡 Signal feeds on Apify
+## 🛠️ What I can build for you
+
+| You need | I deliver | See my work |
+|---|---|---|
+| **A scraper or a data feed** | A custom [Apify](https://apify.com/0xgollum) actor that collects, cleans and delivers the data you need, on a schedule, and alerts you when something changes | [32 live actors →](https://github.com/0xGollum/Apify) |
+| **A mobile app** | A clean Android and iPhone app, from idea to the store | [X Light, Ike →](#-mobile-apps) |
+| **Old photos restored** | Scratches and damage repaired, optional colorization | [Before / after →](#️-photo-restoration) |
+
+**▶ [Tell me what you need on Fiverr](https://www.fiverr.com/crabe666)** · or open an issue on any repo.
+
+
+
+## 📡 Proof of work · Signal feeds on Apify
 
 Not raw scrapes: tools that watch a source non-stop and tell you *what just changed that's worth acting on* — a price shortening before a race, unusual option volume landing today, a company that just filed to raise money. Small structured datasets, built to run on a schedule.
 
