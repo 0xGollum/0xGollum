@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png" alt="0xGollum — tools that watch, alert and automate" width="100%">
+<img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png?v=3" alt="0xGollum — tools that watch, alert and automate" width="100%">
 
 **I build data signals and workflow automations that watch the web for you — and tell you when something is worth acting on.**
 
