@@ -2,12 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/0xGollum/0xGollum/main/assets/banner.png" alt="0xGollum — tools that watch, alert and automate" width="100%">
 
-**Signal feeds, workflow templates, Android apps and a 24/7 radio — built to run while you sleep.**
+**I build data signals and workflow automations that watch the web for you — and tell you when something is worth acting on.**
 
 [![Apify](https://img.shields.io/badge/Apify-32_data_actors-97D700?logo=apify&logoColor=white)](https://apify.com/0xgollum)
 [![n8n](https://img.shields.io/badge/n8n-5_published_templates-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/creators/xgollum)
-[![Mobile apps](https://img.shields.io/badge/Mobile_apps-3-6C5CE7?logo=flutter&logoColor=white)](#-mobile-apps)
-[![YouTube](https://img.shields.io/badge/YouTube-The_Last_Signal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lastsignal-radio)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/crabe666)
 
 </div>
@@ -42,7 +40,11 @@ Five published, tested end to end, ready to import. Each one runs on free tiers 
 
 ---
 
-## 📱 Mobile apps
+## 🧩 Side projects
+
+When I'm not building signals, I ship small things I'd want to use myself.
+
+### 📱 Mobile apps
 
 | | App | Android | iPhone |
 |---|---|---|---|
@@ -54,7 +56,7 @@ Five published, tested end to end, ready to import. Each one runs on free tiers 
 
 ---
 
-## 📻 The Last Signal — 24/7 dark synth radio
+### 📻 The Last Signal — 24/7 dark synth radio
 
 A live radio channel that never sleeps: original music made with AI tools, rainy cyberpunk visuals, distant thunder. Turn the radio on, the signal is still here.
 
@@ -62,7 +64,7 @@ A live radio channel that never sleeps: original music made with AI tools, rainy
 
 ---
 
-## 🖼️ Photo restoration
+### 🖼️ Photo restoration
 
 Old, damaged family photos brought back to life: scratches, stains and noise repaired, then (optionally) colorized with natural tones. Original → restored → colorized:
 
