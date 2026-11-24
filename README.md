@@ -6,7 +6,8 @@
 
 [![Apify](https://img.shields.io/badge/Apify-32_data_actors-97D700?logo=apify&logoColor=white)](https://apify.com/0xgollum)
 [![n8n](https://img.shields.io/badge/n8n-5_published_templates-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/creators/xgollum)
-[![Google Play](https://img.shields.io/badge/Google_Play-X_Light-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.oxgollum.xlight)
+[![Google Play](https://img.shields.io/badge/Google_Play-2_apps-3DDC84?logo=googleplay&logoColor=white)](https://github.com/0xGollum/Android)
+[![YouTube](https://img.shields.io/badge/YouTube-The_Last_Signal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lastsignal-radio)
 
 </div>
 
@@ -40,14 +41,32 @@ Five published, tested end to end, ready to import. Each one runs on free tiers 
 
 ---
 
-## 📱 Android
+## 📱 Android apps
 
-<img src="https://raw.githubusercontent.com/0xGollum/Android/main/assets/xlight-icon.jpg" width="56" align="left">
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/0xGollum/Android/main/assets/xlight-icon.jpg" width="56"> | **X Light** — a flashlight that turns on in one tap and looks like you want it to: 500+ themes, widget, background torch, 11 languages. Free, no account.<br>[**Get it on Google Play →**](https://play.google.com/store/apps/details?id=com.oxgollum.xlight) |
+| <img src="https://raw.githubusercontent.com/0xGollum/Android/main/assets/ike-icon.png" width="56"> | **Ike** — the Eisenhower matrix in your pocket: sort every task as urgent or important, tick, archive, back up, 11 languages. Made with and for brains that need things clear.<br>[**Get it on Google Play →**](https://play.google.com/store/apps/details?id=com.oxgollum.ike) |
 
-**X Light** — a flashlight that turns on in one tap and looks like you want it to: 500+ themes, widget, background torch, 11 languages. Free, no account.
-[**Get it on Google Play →**](https://play.google.com/store/apps/details?id=com.oxgollum.xlight) · [Screenshots](https://github.com/0xGollum/Android)
+[Screenshots and details →](https://github.com/0xGollum/Android)
 
-<br clear="left">
+---
+
+## 📻 The Last Signal — 24/7 dark synth radio
+
+A live radio channel that never sleeps: original music made with AI tools, rainy cyberpunk visuals, distant thunder. Turn the radio on, the signal is still here.
+
+[**▶ Tune in on YouTube →**](https://www.youtube.com/@lastsignal-radio)
+
+---
+
+## 🧪 Beta testers wanted — iPhone
+
+Try the iPhone versions before everyone else with TestFlight (10 spots per app, free, your feedback shapes the final version):
+
+- [**X Light**](https://testflight.apple.com/join/Mj9y8zvb) — the one-tap flashlight with 500+ themes
+- [**Ike**](https://testflight.apple.com/join/NYXZnDFW) — the Eisenhower matrix for your tasks
+- [**Bottle Buddies**](https://testflight.apple.com/join/vDM61tsM) — a cute water-sort puzzle with bottles that have faces
 
 ---
 
